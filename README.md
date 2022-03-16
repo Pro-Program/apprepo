@@ -1,3 +1,4 @@
 # Pro Program App Repo
 Pro Program's Application Repository
-This Repository has all the applications Pro Program Inc created
+#Disclaimer!
+This repository does not own any of the apps, except for a few, we only created the executables
